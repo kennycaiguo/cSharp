@@ -1,0 +1,4 @@
+D:\c#Projects\lambda\lambda\bin\Debug\lambda.exe
+D:\c#Projects\lambda\lambda\bin\Debug\lambda.pdb
+D:\c#Projects\lambda\lambda\obj\x86\Debug\lambda.exe
+D:\c#Projects\lambda\lambda\obj\x86\Debug\lambda.pdb

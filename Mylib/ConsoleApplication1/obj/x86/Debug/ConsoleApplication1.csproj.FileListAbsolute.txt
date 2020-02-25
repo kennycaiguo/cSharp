@@ -1,0 +1,7 @@
+D:\c#Projects\Mylib\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\c#Projects\Mylib\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\c#Projects\Mylib\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\c#Projects\Mylib\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\c#Projects\Mylib\ConsoleApplication1\bin\Debug\Mylib.dll
+D:\c#Projects\Mylib\ConsoleApplication1\bin\Debug\Mylib.pdb
+D:\c#Projects\Mylib\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\c#Projects\Mylib\Mylib\bin\Debug\Mylib.dll
+D:\c#Projects\Mylib\Mylib\bin\Debug\Mylib.pdb
+D:\c#Projects\Mylib\Mylib\obj\Debug\Mylib.dll
+D:\c#Projects\Mylib\Mylib\obj\Debug\Mylib.pdb

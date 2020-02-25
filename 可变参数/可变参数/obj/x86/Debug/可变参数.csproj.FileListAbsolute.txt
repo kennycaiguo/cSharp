@@ -1,0 +1,4 @@
+D:\c#Projects\可变参数\可变参数\bin\Debug\可变参数.exe
+D:\c#Projects\可变参数\可变参数\bin\Debug\可变参数.pdb
+D:\c#Projects\可变参数\可变参数\obj\x86\Debug\可变参数.exe
+D:\c#Projects\可变参数\可变参数\obj\x86\Debug\可变参数.pdb
