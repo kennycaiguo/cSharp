@@ -1,0 +1,12 @@
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\bin\Debug\vbnethttpUpload.exe
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\bin\Debug\vbnethttpUpload.pdb
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\bin\Debug\vbnethttpUpload.xml
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.Form1.resources
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.Resources.resources
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.vbproj.GenerateResource.Cache
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.exe
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.xml
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.pdb
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\Interop.SHDocVw.dll
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\vbnethttpUpload.vbproj.ResolveComReference.cache
+E:\vscSharp2010projects\vbnethttpUpload\vbnethttpUpload\obj\x86\Debug\Interop.InetCtlsObjects.dll
