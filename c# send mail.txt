@@ -1,0 +1,52 @@
+﻿static void Main(string[] args)  
+        
+{  
+            
+   SmtpClient client = new SmtpClient();//生成SmtpClient实例，用它发送电子邮件  
+            
+   client.UseDefaultCredentials = true;  
+            
+   client.Host = "smtp.163.com";//指定SMTP服务器主机  
+            
+   client.Port = 25;//指定要使用的端口，这个是默认的端口  
+            
+   string username = "发件人邮箱";  
+            
+   string pwd = "发件人邮箱密码";  
+            
+   System.Net.NetworkCredential nc = new System.Net.NetworkCredential(username, pwd);//发件人邮箱的用户和密码.中的密码更改为授权码号  
+            
+   client.Credentials = nc.GetCredential(client.Host, client.Port, "NTLM");  
+            
+   MailMessage message = new MailMessage();  
+            
+   MailAddress from = new MailAddress("发件人邮箱");//获取输入的发件人的邮箱地址  
+            
+   MailAddress to = new MailAddress("收件人邮箱");//获取输入的收件人的邮箱地址  
+            
+   message.To.Add(to);//设置邮件收件人,MailMessage类的To属性可以Add多个接收人  
+            
+   Attachment attach = new Attachment(@"附件存放地址");//获取选择的附件  
+            
+   Attachment attach1 = new Attachment(@"附件存放地址");  
+            
+   message.Attachments.Add(attach);//将附件添加到邮件中，MailMessage类的Attachments属性可以Add多个附件  
+            
+   message.Attachments.Add(attach1);  
+            
+   message.Subject = "邮件主题";//获取输入的邮件标题  
+            
+   message.Body = "可以设置成html页面的形式";  
+            
+   message.IsBodyHtml = true;//想要显示Html页面形式必须设置  
+            
+   message.From = from;//设置邮件发件人   
+            
+   client.Send(message);  
+ 
+       
+ 
+} 
+ 
+ 
+ 
