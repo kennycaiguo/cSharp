@@ -1,0 +1,26 @@
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\bin\Debug\mailClient.exe
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\bin\Debug\mailClient.pdb
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.Form1.resources
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.Properties.Resources.resources
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.csproj.GenerateResource.Cache
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.exe
+c:\users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.pdb
+C:\Users\kenny\documents\visual studio 2010\Projects\mailClient\mailClient\obj\x86\Debug\mailClient.csprojResolveAssemblyReference.cache
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.exe
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.pdb
+E:\vsc#2010projects\mailClient\mailClient\bin\Debug\mailClient.exe
+E:\vsc#2010projects\mailClient\mailClient\bin\Debug\mailClient.pdb
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.Form1.resources
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.Properties.Resources.resources
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vsc#2010projects\mailClient\mailClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.exe
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.pdb
+E:\vscSharp2010projects\mailClient\mailClient\bin\Debug\mailClient.exe
+E:\vscSharp2010projects\mailClient\mailClient\bin\Debug\mailClient.pdb
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.Form1.resources
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\mailClient.Properties.Resources.resources
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vscSharp2010projects\mailClient\mailClient\obj\x86\Debug\GenerateResource.write.1.tlog
