@@ -1,0 +1,13 @@
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\filestest.Form1.resources
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\filestest.Properties.Resources.resources
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\filestest.exe
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\filestest.pdb
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\Spire.License.dll
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\Spire.Pdf.dll
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\Spire.License.xml
+E:\vscSharp2010projects\filestest\filestest\bin\Debug\Spire.Pdf.xml
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\filestest.exe
+E:\vscSharp2010projects\filestest\filestest\obj\x86\Debug\filestest.pdb
