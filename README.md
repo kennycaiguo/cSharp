@@ -4,7 +4,7 @@ c#学习代码，包含c#操作常用数据库的代码
 压缩文件的解压密码：name+year
 
 # c# 中非常有用的日期操作：
-<h2>
+<h3>
  MessageBox.Show(DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd "));//获取昨天的日期
  MessageBox.Show(DateTime.Today.AddDays(1).ToString("yyyy-MM-dd "));//获取明天的日期
  MessageBox.Show(DateTime.Today.AddYears(-1).ToString("yyyy-MM-dd "));//获取去年今天的日期
@@ -24,4 +24,4 @@ c#学习代码，包含c#操作常用数据库的代码
  DateTime.Now.Minute.ToString();     获取分钟    
  DateTime.Now.Second.ToString();     获取秒数   
  MessageBox.Show(DateTime.Parse("2018-06-23").DayOfWeek.ToString()); //解析一个日期并且获得那天是星期几 
-</h2>
+</h3>
