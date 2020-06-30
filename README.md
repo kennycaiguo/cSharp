@@ -2,7 +2,7 @@
 
 c#学习代码，包含c#操作常用数据库的代码
 压缩文件的解压密码：name+year
-
+# <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2017InstallerProjects" >VS2017，VS2019   下载Setup（Visual Studio Installer）项目扩展地</a>
 # c# 中非常有用的日期操作：
 <h3>
  MessageBox.Show(DateTime.Today.AddDays(-1).ToString("yyyy-MM-dd "));//获取昨天的日期
