@@ -1,6 +1,38 @@
 # Csharp
 
 c#学习代码，包含c#操作常用数据库的代码
+# .net 操作access数据库，OleDb方式：
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+ 
+using System.Data.OleDb;
+
+namespace AccessTestdotnet
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string connstr = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=f:\company.accdb;Persist Security Info=False;";
+           
+            OleDbConnection conn = new OleDbConnection(connstr);
+            string sql = "select count(1) from Myuser";
+            
+            OleDbCommand cmd = new OleDbCommand(sql, conn);
+            cmd.CommandType = CommandType.Text;
+            conn.Open();
+            Console.WriteLine(cmd.ExecuteScalar());
+            conn.Close();
+            Console.ReadKey();
+        }
+    }
+}
+
+
 压缩文件的解压密码：name+year
 # <a href="https://marketplace.visualstudio.com/items?itemName=VisualStudioClient.MicrosoftVisualStudio2017InstallerProjects" >VS2017，VS2019   下载Setup（Visual Studio Installer）项目扩展地</a>
 # c# 中非常有用的日期操作：
