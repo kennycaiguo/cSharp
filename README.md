@@ -1,6 +1,36 @@
 # Csharp
 
 c#学习代码，包含c#操作常用数据库的代码
+# win10中使用ODBC操作access
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using System.Data.Odbc;
+
+namespace ConsoleOdbcAccess
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string connStr = @"Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=e:\user.mdb";
+            sql = "select count(1) from myuser";
+            OdbcConnection conn = new OdbcConnection(connStr);
+            OdbcCommand cmd = new OdbcCommand(sql, conn);
+            cmd.CommandType = CommandType.Text;
+            conn.Open();
+            Console.WriteLine(cmd.ExecuteScalar());
+            conn.Close();
+            Console.ReadKey();
+        }
+
+        public static string sql { get; set; }
+    }
+}
+
 # .net 操作access数据库，OleDb方式：
 using System;
 using System.Collections.Generic;
